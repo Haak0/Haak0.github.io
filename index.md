@@ -1,5 +1,6 @@
-# Photo  
-# ReubenStands
+ # ReubenStands  
+ # Photo  
+ ## Contact Information  
 <ul>
   <li>reubenstands@gmail.com</li>
   <li>github.com/Haak0</li>
