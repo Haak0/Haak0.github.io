@@ -5,3 +5,10 @@
   <li>Haak0.github.io</li>
   <li>(701)421-3056</li>
 </ul>  
+
+# school  
+## UNITED TRIBES TECHNICAL COLLEGE  
+## Spring 22-23, first year  
+### Computer Information Technology  
+
+# About me  
