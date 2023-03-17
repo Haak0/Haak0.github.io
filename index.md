@@ -1,2 +1,2 @@
 # ReubenStands
-## -reubenstands@gmail.com
+## - reubenstands@gmail.com
