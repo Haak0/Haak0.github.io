@@ -1,3 +1,4 @@
+# Photo  
 # ReubenStands
 <ul>
   <li>reubenstands@gmail.com</li>
@@ -12,3 +13,5 @@ Spring 22-23, first year
 Computer Information Technology  
 
 # About me  
+
+# Questions?  
