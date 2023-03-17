@@ -6,9 +6,9 @@
   <li>(701)421-3056</li>
 </ul>  
 
-# school  
-## UNITED TRIBES TECHNICAL COLLEGE  
-## Spring 22-23, first year  
-### Computer Information Technology  
+# School  
+UNITED TRIBES TECHNICAL COLLEGE  
+Spring 22-23, first year  
+Computer Information Technology  
 
 # About me  
