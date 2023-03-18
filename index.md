@@ -1,6 +1,6 @@
- # ReubenStands  
- # Photo  
- ## Contact Information  
+# Reuben Stands  
+# Photo  
+## Contact Information  
 <ul>
   <li>reubenstands@gmail.com</li>
   <li>github.com/Haak0</li>
@@ -14,5 +14,5 @@ Spring 22-23, first year
 Computer Information Technology  
 
 # About me  
-
+24, Oglala Lakota. I am currently pursuing an assiociates degree in IT at United Tribes. I am originally from the Pine Ridge Indian Reservation.
 # Questions?  
