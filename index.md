@@ -17,4 +17,7 @@ Computer Information Technology
 
 # About me  
 24, Oglala Lakota. I am currently pursuing an assiociates degree in IT at United Tribes. I am originally from the Pine Ridge Indian Reservation.
+
+# what are you excited about learning from the esiil stars intership?
+
 # Questions?  
