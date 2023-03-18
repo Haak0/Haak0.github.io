@@ -1,8 +1,10 @@
 # Reuben Stands  
-# Photo  
+# Photo
+
 ## Contact Information  
 <ul>
   <li>reubenstands@gmail.com</li>
+  <li>stands.reuben@stu.uttc.edu</li>
   <li>github.com/Haak0</li>
   <li>Haak0.github.io</li>
   <li>(701)421-3056</li>
