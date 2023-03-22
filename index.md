@@ -6,8 +6,7 @@
   <li>reubenstands@gmail.com</li>
   <li>stands.reuben@stu.uttc.edu</li>
   <li>github.com/Haak0</li>
-  <li>Haak0.github.io</li>
-  <li>(701)421-3056</li>
+  <li>github.com/Haak0/Reubens-esiil-stars-webpage</li>
 </ul>  
 
 # School  
@@ -16,8 +15,8 @@ Spring 22-23, first year
 Computer Information Technology  
 
 # About me  
-24, Oglala Lakota. I am currently pursuing an assiociates degree in IT at United Tribes. I am originally from the Pine Ridge Indian Reservation.
+24, Oglala Lakota. I am currently pursuing an A.A.S in C.I.T at United Tribes. I am originally from the Pine Ridge Indian Reservation.
 
 # what are you excited about learning from the esiil stars intership?
-
+I am excited about learning the python language.
 # Questions?  
