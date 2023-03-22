@@ -5,7 +5,7 @@
 <ul>
   <li>reubenstands@gmail.com</li>
   <li>stands.reuben@stu.uttc.edu</li>
-  <li>github.com/Haak0</li>
+  <li>https://github.com/Haak0</li>
   <li>https://haak0.github.io/Reubens-esiil-stars-webpage/</li>
 </ul>  
 
