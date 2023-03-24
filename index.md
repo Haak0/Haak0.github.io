@@ -14,8 +14,7 @@ Spring 22-23, first year
 Computer Information Technology  
 
 # About me  
-24, Oglala Lakota. I am currently pursuing an A.A.S in C.I.T at United Tribes. I am originally from the Pine Ridge Indian Reservation.
+24, Oglala Sioux Tribe. I am currently in my first year of the C.I.T program at United Tribes. I moved to North Dakota 3 1/2 years ago. 
 
 # what are you excited about learning from the esiil stars intership?
-
-# Questions?  
+Excited to earn the Python language.
