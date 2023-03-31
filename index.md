@@ -11,7 +11,7 @@
 
 # School  
 UNITED TRIBES TECHNICAL COLLEGE  
-Spring 22-23, first year  
+Spring 22-23
 Computer Information Technology  
 
 # About me  
