@@ -1,4 +1,3 @@
-theme: midnight@v0.2.0
 # Reuben Stands  
 ![esiil-pic2](https://user-images.githubusercontent.com/128166429/229017484-4f14596e-5f47-4544-94d2-54f1fb4f3699.jpg)
 
