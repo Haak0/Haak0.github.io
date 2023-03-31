@@ -2,10 +2,10 @@
 
 ## Contact Information  
 <ul>
-  <li>https://reubenstands@gmail.com</li>
-  <li>https://stands.reuben@stu.uttc.edu</li>
-  <li>https://github.com/Haak0</li>
-  <li>https://haak0.github.io/Reubens-esiil-stars-webpage/</li>
+  <li><a href="mailto:https://reubenstands@gmail.com">Personal email</a></p></li>
+  <li><a href="mailto:https://stands.reuben@stu.uttc.edu">School email</a></p></li>
+  <li><p><a href="https://github.com/Haak0">Mygithub.page</a></p></li>
+  <li><p><a href="https://haak0.github.io/Reubens-esiil-stars-webpage/">esiil.webpage</a></p></li>
 </ul>  
 
 # School  
