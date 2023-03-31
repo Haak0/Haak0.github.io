@@ -5,7 +5,7 @@
   <li><a href="mailto:https://reubenstands@gmail.com">Personal email</a></li>
   <li><a href="mailto:https://stands.reuben@stu.uttc.edu">School email</a></li>
   <li><p><a href="https://github.com/Haak0">Mygithub.page</a></p></li>
-  <li><p><a href="https://haak0.github.io/Reubens-esiil-stars-webpage/">esiil.webpage</a></p></li>
+  <li><p><a href="https://github.com/Haak0/Reubens-esiil-stars-webpage">esiil.repository</a></p></li>
 </ul>  
 
 # School  
