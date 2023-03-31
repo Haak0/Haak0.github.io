@@ -1,6 +1,6 @@
 # Reuben Stands  
 
-<img style="float: right;" src="![esiil-pic2](https://user-images.githubusercontent.com/128166429/229239900-ab719523-3d93-4366-ada3-07c244f92f3b.jpg)" width="125" height="125">
+<img style="float: right;" src="![esiil-pic2](https://user-images.githubusercontent.com/128166429/229239900-ab719523-3d93-4366-ada3-07c244f92f3b.jpg)" width="250" height="270">
 
 ## Contact Information  
 <ul>
