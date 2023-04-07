@@ -1,6 +1,5 @@
 
 ---
-title: Reubens-esill-stars-webpage
 layout: default
 ---
 
