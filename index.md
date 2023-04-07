@@ -21,5 +21,3 @@ Computer Information Technology
 
 # what are you excited about learning from the esiil stars intership?
 Excited to learn the Python language, meet new people. Also, to gain a better understanding of earth data science.
-
-theme: midnight
