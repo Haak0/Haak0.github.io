@@ -1,6 +1,7 @@
 # Reuben Stands  
 
-<img style="float: right;" src="C:\Users\Archo\OneDrive\Pictures\esiil-pic2.jpg" height="125" width="125">
+<img src="![esiil-pic2](https://user-images.githubusercontent.com/128166429/230533420-0a41d1a1-88c6-4ff2-8501-60aaeecbf198.jpg)
+" width="100" height="200">
 
 ## Contact Information  
 <ul>
