@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Reubens-esiil-stars-webpage
+title: home
 ---
 
 # Reuben Stands  
