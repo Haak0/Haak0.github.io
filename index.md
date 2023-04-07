@@ -1,5 +1,4 @@
-theme: midnight
-  
+ 
 # Reuben Stands  
 
 <img width="125" alt="esiil-pic4" src="https://user-images.githubusercontent.com/128166429/230536246-ea6c3f84-4c5e-418e-842f-cdac43259c1f.png">
@@ -22,3 +21,5 @@ Computer Information Technology
 
 # what are you excited about learning from the esiil stars intership?
 Excited to learn the Python language, meet new people. Also, to gain a better understanding of earth data science.
+
+theme: midnight
