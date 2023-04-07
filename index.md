@@ -1,4 +1,4 @@
-<theme: midnight>
+theme: midnight
   
 # Reuben Stands  
 
