@@ -1,6 +1,6 @@
 # Reuben Stands  
 
-<img src=""C:\Users\Archo\OneDrive\Pictures\esiil-pic4.png"" width="200" height="250">
+<img src="C:\Users\Archo\OneDrive\Pictures\esiil-pic4.png" width="200" height="250">
 
 ## Contact Information  
 <ul>
